@@ -1,5 +1,5 @@
 .header {
-  height: 550px;
+  height: 599px;
   width: 1000px;
   padding: 60px 0px 130px 30px;
   display: inline-block;
@@ -13,8 +13,6 @@
   /*border: 18px solid white;*/
   /*border-radius: 5px;*/
   padding: 10px 10px 10px 10px;
-
-
 }
 
 .stripe {
@@ -68,7 +66,7 @@ h2 {
   /*color: rgb(205, 215, 225);*/
   color: white;
   font-family: 'Lato', sans-serif;
-  padding-top: 70px;
+  padding-top: 50px;
 }
 
 .DocumentList {
@@ -542,4 +540,8 @@ a.imglink:hover .proj-body{
 .background {
   position: absolute;
   z-index: -1;
+}
+
+.navbar-inverse {
+  border-color: transparent !important;
 }
