@@ -1,3 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
 .header {
   height: 599px;
   width: 1000px;
@@ -544,4 +548,9 @@ a.imglink:hover .proj-body{
 
 .navbar-inverse {
   border-color: transparent !important;
+}
+
+.navbar-link:hover {
+  color: #777 !important;
+  text-decoration: none;
 }
